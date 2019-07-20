@@ -1,12 +1,13 @@
 ---
-title: "About me"
-template: "page"
+template: page
+title: About me
+slug: /pages/about
+draft: false
 ---
+# Hi, I'm Kyle
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+If you've landed here, you're probably wondering who I am, and what this is. Well, I'm Kyle Rubenok, and this is my blog. I'm currently a 5th year student at McGill University in the bitterly cold city of Montreal studying Computer Science with a minor in Economics and currently a PM Intern over at Microsoft.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+This blog won't have any particular theme beyond whatever I feel like writing about in the moment. I mostly think about technology or things technology adjacent so I except this blog will be similar. Specifically, I'm a fan of enterprise hardware and homelabbing, macOS/iOS/iPadOS/watchOS, and love to needlessly automate things. Oh and I like to ski fast sometimes.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![Picture of Kyle on top of a mountain overlooking a fjord in Norway.](/media/norway.jpg)
