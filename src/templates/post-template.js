@@ -1,4 +1,3 @@
-// @flow
 import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
@@ -7,9 +6,7 @@ import { useSiteMetadata } from '../hooks';
 import type { MarkdownRemark } from '../types';
 
 type Props = {
-  data: {
-    markdownRemark: MarkdownRemark
-  }
+  data: MarkdownRemark
 };
 
 const PostTemplate = ({ data }: Props) => {
@@ -23,6 +20,7 @@ const PostTemplate = ({ data }: Props) => {
     </Layout>
   );
 };
+
 
 export const query = graphql`
   query PostBySlug($slug: String!) {
@@ -42,5 +40,6 @@ export const query = graphql`
     }
   }
 `;
+
 
 export default PostTemplate;
