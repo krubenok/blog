@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.rubenok.ca',
   title: 'Blog by Kyle Rubenok',
   subtitle: 'Ramblings of a nerd.',
   copyright: '© All rights reserved.',
