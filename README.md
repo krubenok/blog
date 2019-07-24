@@ -1,20 +1,9 @@
 # Kyle Rubenok's Public Blog
 A fork of the lovel Lumen Gatsby Starter by [Alexander Shelepenok](https://github.com/alxshelepenok/)
 
-<!-- Netlify Status -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9e57fe74-aa05-48c7-9e40-70dbeb41899d/deploy-status)](https://app.netlify.com/sites/blog-rubenok/deploys)
-
-<!-- Codecov Status -->
-[![codecov](https://codecov.io/gh/krubenok/blog/branch/master/graph/badge.svg)](https://codecov.io/gh/krubenok/blog)
-
-<!-- Codacy Status -->
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5a5b527a2d247d6801caf6b3dc7a014)](https://www.codacy.com/app/krubenok/blog?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krubenok/blog&amp;utm_campaign=Badge_Grade)
-
-<!-- Codeclimate -->
-[![Maintainability](https://api.codeclimate.com/v1/badges/01cb24fccd0f37c8f428/maintainability)](https://codeclimate.com/github/krubenok/blog/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/01cb24fccd0f37c8f428/test_coverage)](https://codeclimate.com/github/krubenok/blog/test_coverage)
-
-<!-- FOSSA -->
+<!-- Netlify Status --> 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e57fe74-aa05-48c7-9e40-70dbeb41899d/deploy-status)](https://app.netlify.com/sites/blog-rubenok/deploys) <!-- Codecov Status -->
+[![codecov](https://codecov.io/gh/krubenok/blog/branch/master/graph/badge.svg)](https://codecov.io/gh/krubenok/blog) <!-- Codacy Status --> [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5a5b527a2d247d6801caf6b3dc7a014)](https://www.codacy.com/app/krubenok/blog?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krubenok/blog&amp;utm_campaign=Badge_Grade) <!-- Codeclimate --> [![Maintainability](https://api.codeclimate.com/v1/badges/01cb24fccd0f37c8f428/maintainability)](https://codeclimate.com/github/krubenok/blog/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/01cb24fccd0f37c8f428/test_coverage)](https://codeclimate.com/github/krubenok/blog/test_coverage) <!-- FOSSA -->
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkrubenok%2Fblog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkrubenok%2Fblog?ref=badge_shield)
 
 ## Features
