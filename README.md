@@ -2,6 +2,7 @@
 A fork of the lovel Lumen Gatsby Starter by [Alexander Shelepenok](https://github.com/alxshelepenok/)
 
 <!-- Netlify Status -->
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e33226810af945e0965065b7846abba3)](https://app.codacy.com/app/krubenok/blog?utm_source=github.com&utm_medium=referral&utm_content=krubenok/blog&utm_campaign=Badge_Grade_Settings)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9e57fe74-aa05-48c7-9e40-70dbeb41899d/deploy-status)](https://app.netlify.com/sites/blog-rubenok/deploys)
 
 <!-- Codecov Status -->
