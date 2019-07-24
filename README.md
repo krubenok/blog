@@ -1,4 +1,5 @@
 # Kyle Rubenok's Public Blog
+
 A fork of the lovel Lumen Gatsby Starter by [Alexander Shelepenok](https://github.com/alxshelepenok/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9e57fe74-aa05-48c7-9e40-70dbeb41899d/deploy-status)](https://app.netlify.com/sites/blog-rubenok/deploys)
@@ -11,26 +12,27 @@ A fork of the lovel Lumen Gatsby Starter by [Alexander Shelepenok](https://githu
 [![codecov](https://codecov.io/gh/krubenok/blog/branch/master/graph/badge.svg)](https://codecov.io/gh/krubenok/blog)
 
 ## Features
-+ [Lost Grid](http://lostgrid.org).
-+ [Modern font stack](https://bitsofco.de/the-new-system-font-stack).
-+ Beautiful typography inspired by [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg).
-+ Syntax highlighting in code blocks using [PrismJS](http://prismjs.com).
-+ [Mobile-First](https://medium.com/@mrmrs_/mobile-first-css-48bc4cc3f60f) approach in development.
-+ Archive organized by tags and categories.
-+ Pagination support.
-+ [Netlify CMS](https://www.netlifycms.org) support.
-+ Google Analytics.
-+ Disqus Comments.
-+ [Flow](https://flow.org/) static type checking.
 
+[Lost Grid](http://lostgrid.org).
+[Modern font stack](https://bitsofco.de/the-new-system-font-stack).
+Beautiful typography inspired by [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg).
+Syntax highlighting in code blocks using [PrismJS](http://prismjs.com).
+[Mobile-First](https://medium.com/@mrmrs_/mobile-first-css-48bc4cc3f60f) approach in development.
+Archive organized by tags and categories.
+Pagination support.
+[Netlify CMS](https://www.netlifycms.org) support.
+Google Analytics.
+Disqus Comments.
+[Flow](https://flow.org/) static type checking.
 
 ## Web Performance Tests
-+ Lighthouse Report - [WebPageTest](https://www.webpagetest.org/result/190724_M7_f1bbaffa9a99796d855240e4ba17be3a/)
-+ Visual Comparison - [WebPageTest](https://www.webpagetest.org/result/190724_QH_353a4b3856bce2ff4ac8319506e5fce8/1/details/)
+
+Lighthouse Report - [WebPageTest](https://www.webpagetest.org/result/190724_M7_f1bbaffa9a99796d855240e4ba17be3a/)
+Visual Comparison - [WebPageTest](https://www.webpagetest.org/result/190724_QH_353a4b3856bce2ff4ac8319506e5fce8/1/details/)
 
 ## Quick Start
 
-#### Create a Gatsby site
+### Create a Gatsby site
 
 Use the Gatsby CLI to create a new site, specifying the Lumen starter.
 
@@ -39,7 +41,7 @@ Use the Gatsby CLI to create a new site, specifying the Lumen starter.
 gatsby new blog https://github.com/alxshelepenok/gatsby-starter-lumen
 ```
 
-#### Start Developing
+### Start Developing
 
 Navigate into your new site’s directory and start it up.
 
@@ -48,7 +50,7 @@ cd blog
 gatsby develop
 ```
 
-#### Open the source code and start editing!
+### Open the source code and start editing
 
 Your site is now running at `http://localhost:8000`!
 
@@ -57,19 +59,23 @@ Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is
 Open the `blog` directory in your code editor of choice and edit `src/templates/index-template.js`. Save your changes and the browser will update in real time!
 
 #### Access Locally
-```
-$ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-$ cd [REPO_NAME]
-$ yarn
+
+```shell
+git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
+cd [REPO_NAME]
+yarn
 $ npm run develop
 ```
+
 To test the CMS locally, you'll need run a production build of the site:
-```
-$ npm run build
-$ gatsby serve
+
+```shell
+npm run build
+gatsby serve
 ```
 
 ## License
+
 The MIT License (MIT)
 
 Copyright (c) 2019 Kyle Rubenok
