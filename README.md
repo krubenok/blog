@@ -7,7 +7,15 @@ A fork of the lovel Lumen Gatsby Starter by [Alexander Shelepenok](https://githu
 <!-- Codecov Status -->
 [![codecov](https://codecov.io/gh/krubenok/blog/branch/master/graph/badge.svg)](https://codecov.io/gh/krubenok/blog)
 
+<!-- Codacy Status -->
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5a5b527a2d247d6801caf6b3dc7a014)](https://www.codacy.com/app/krubenok/blog?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krubenok/blog&amp;utm_campaign=Badge_Grade)
 
+<!-- Codeclimate -->
+[![Maintainability](https://api.codeclimate.com/v1/badges/01cb24fccd0f37c8f428/maintainability)](https://codeclimate.com/github/krubenok/blog/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/01cb24fccd0f37c8f428/test_coverage)](https://codeclimate.com/github/krubenok/blog/test_coverage)
+
+<!-- FOSSA -->
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkrubenok%2Fblog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkrubenok%2Fblog?ref=badge_shield)
 
 ## Features
 + [Lost Grid](http://lostgrid.org).
@@ -22,11 +30,10 @@ A fork of the lovel Lumen Gatsby Starter by [Alexander Shelepenok](https://githu
 + Disqus Comments.
 + [Flow](https://flow.org/) static type checking.
 
-<!-- Todo: Add new performace tests once at the final domain. -->
-<!-- 
+
 ## Web Performance Tests
-+ Lighthouse Report - [WebPageTest](https://www.webpagetest.org/result/190510_FE_3f2b13d0beed320f477467d433f56f43/)
-+ Visual Comparison - [WebPageTest](https://www.webpagetest.org/video/compare.php?tests=190510_KZ_1228c343ccf04148619a5d0b89a41f71,190510_RE_b3bfad442f32c690a9f420fe46025b8d,190510_RS_3b5f0bff2d95161351dc6934cadbf1cf,190510_SC_5c458c451941f81b12911ccf4171a817,190510_63_52d5edd8743773815fbacb2e9c66d228,190510_AS_741b29f5af5a6e54980d82826d7bb5bb) -->
++ Lighthouse Report - [WebPageTest](https://www.webpagetest.org/result/190724_M7_f1bbaffa9a99796d855240e4ba17be3a/)
++ Visual Comparison - [WebPageTest](https://www.webpagetest.org/result/190724_QH_353a4b3856bce2ff4ac8319506e5fce8/1/details/)
 
 ## Quick Start
 
@@ -56,15 +63,6 @@ Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is
 
 Open the `blog` directory in your code editor of choice and edit `src/templates/index-template.js`. Save your changes and the browser will update in real time!
 
-## Deploy with Netlify
-
-[Netlify](https://netlify.com) CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
-
-<!-- TODO Update this to my repo -->
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-
-After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
-
 #### Access Locally
 ```
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
@@ -76,46 +74,6 @@ To test the CMS locally, you'll need run a production build of the site:
 ```
 $ npm run build
 $ gatsby serve
-```
-
-## Folder Structure
-<!-- TOOD: Update this.  -->
-
-```
-└── content
-    ├── pages
-    └── posts
-└── static
-    ├── admin
-    └── media
-└── src
-    ├── assets
-    │   └── scss
-    │       ├── base
-    │       └── mixins
-    ├── cms
-    │   └── preview-templates
-    ├── components
-    │   ├── Feed
-    │   ├── Icon
-    │   ├── Layout
-    │   ├── Page
-    │   ├── Pagination
-    │   ├── Post
-    │   │   ├── Author
-    │   │   ├── Comments
-    │   │   ├── Content
-    │   │   ├── Meta
-    │   │   └── Tags
-    │   └── Sidebar
-    │       ├── Author
-    │       ├── Contacts
-    │       ├── Copyright
-    │       └── Menu
-    ├── constants
-    ├── templates
-    └── utils
-
 ```
 
 ## License
