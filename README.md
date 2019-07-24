@@ -8,8 +8,6 @@ A fork of the lovel Lumen Gatsby Starter by [Alexander Shelepenok](https://githu
 [![Test Coverage](https://api.codeclimate.com/v1/badges/01cb24fccd0f37c8f428/test_coverage)](https://codeclimate.com/github/krubenok/blog/test_coverage)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkrubenok%2Fblog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkrubenok%2Fblog?ref=badge_shield)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e33226810af945e0965065b7846abba3)](https://app.codacy.com/app/krubenok/blog?utm_source=github.com&utm_medium=referral&utm_content=krubenok/blog&utm_campaign=Badge_Grade_Settings)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9e57fe74-aa05-48c7-9e40-70dbeb41899d/deploy-status)](https://app.netlify.com/sites/blog-rubenok/deploys)
-[![codecov](https://codecov.io/gh/krubenok/blog/branch/master/graph/badge.svg)](https://codecov.io/gh/krubenok/blog)
 
 ## Features
 
