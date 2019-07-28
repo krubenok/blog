@@ -200,6 +200,17 @@ module.exports = {
         }
       }
     },
-    'gatsby-plugin-flow'
+    'gatsby-plugin-flow',
+    {
+      resolve: 'gatsby-theme-mdx-deck',
+      options: {
+        // enable or disable gatsby-plugin-mdx
+        mdx: false,
+        // source directory
+        contentPath: 'content/decks',
+        // base path for routes generate by this theme
+        basePath: 'decks'
+      }
+    }
   ]
 };
