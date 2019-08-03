@@ -34,3 +34,5 @@ This remote management also let me deploy a Meraki full stack network at my Mom'
 # Overkill
 
 Yes. Meraki at home is totally overkill but I wouldn't have it any other way. Proper mesh networking that scales well is still very hit or miss in the consumer space and having roaming that actually works is a luxury I can't live without. Finally, the site-to-site and client VPN are huge features that I use on a daily basis while knowing that my network is backed up Cisco Talos security via AMP.
+
+At some point later I'll get into details as to what my network is running with a diagram as well as the configurations...
