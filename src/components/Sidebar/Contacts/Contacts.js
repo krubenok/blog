@@ -1,4 +1,4 @@
-// @flow
+// @flow strict strict
 import React from 'react';
 import { getContactHref, getIcon } from '../../../utils';
 import Icon from '../../Icon';
@@ -21,7 +21,7 @@ const Contacts = ({ contacts }: Props) => (
             rel="noopener noreferrer"
             target="_blank"
           >
-            <Icon icon={getIcon(name)} />
+            <Icon name={name} icon={getIcon(name)} />
           </a>
         </li>
       )))}

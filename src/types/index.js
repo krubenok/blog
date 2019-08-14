@@ -1,4 +1,4 @@
-// @flow
+// @flow strict
 import type { Node as ReactNode } from 'react';
 
 export type RenderCallback = {

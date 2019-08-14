@@ -1,4 +1,4 @@
-// @flow
+// @flow strict strict
 type CSSModule = {
   [key: string]: string,
 };
