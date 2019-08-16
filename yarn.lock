@@ -3505,7 +3505,7 @@ core-js-pure@3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.1.1.tgz#92494ab7bae22f156ae93973a5e2738814efa7f8"
 
-core-js@2:
+core-js@2, core-js@^2.4.0, core-js@^2.4.1, core-js@^2.5.0, core-js@^2.6.5:
   version "2.6.9"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha512-HOpZf6eXmnl7la+cUdMnLvUxKNqLUzJvgIziQ0DiF3JwSImNphIqdGqzj6hIKyX04MmV0poclQ7+wjWvxQyR2A==
@@ -3513,10 +3513,6 @@ core-js@2:
 core-js@^1.0.0:
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-1.2.7.tgz#652294c14651db28fa93bd2d5ff2983a4f08c636"
-
-core-js@^2.4.0, core-js@^2.4.1, core-js@^2.5.0, core-js@^2.6.5:
-  version "2.6.5"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.5.tgz#44bc8d249e7fb2ff5d00e0341a7ffb94fbf67895"
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -6177,10 +6173,10 @@ gatsby-transformer-sharp@^2.2.6:
     semver "^5.6.0"
     sharp "^0.22.1"
 
-gatsby@^2.13.24, gatsby@^2.13.62:
-  version "2.13.62"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.62.tgz#ed2b5fc59199383c32f0ba6d64414a46452f7802"
-  integrity sha512-Q/hIwFJlQ2nC5ICenYQHk8uP3Pqbl/Ikq4Na5OS+3vnBkV19Yc4dgPIKc/DxOmIpgEfn6FQW15OHjoEXmPygew==
+gatsby@^2.13.24, gatsby@^2.13.65:
+  version "2.13.65"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.65.tgz#f41e55c9b6588f4ec9d25bfc515e7b814bd8b312"
+  integrity sha512-XqqJ/2YCuGlPoFae9JPGcIcDxQQNU8faPj95RUyzDE71rMpbGTRlVK/v9n6MV3hCLtMC8Rq4ugE+LPRR5fV/VQ==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
